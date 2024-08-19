@@ -117,5 +117,8 @@ background-size: cover;
 .skill-item {
    margin: 5px;
 }
+.skill-flex {
+    display: flex;
+}
     }
 }
